@@ -1,0 +1,172 @@
+*{
+      margin:0;
+      padding:0;
+}
+body {
+      margin:0;
+      line-height: 2;
+      font-size: 100%;
+      text-align: center;
+      text-transform: capitalize;
+      background: radial-gradient( #46afcf, #d8d7d6);
+      color:black;
+      font-family: 'Spectral', serif;
+      font-weight: 600;
+}
+
+.top-section{
+      background: url("/images/codebg.png.jpeg");
+      max-width: 100%;
+      height: 330px;
+      position: relative;
+}
+.top-title{
+      display: inline-block;
+      padding-top: 5%;
+      text-align: center;
+      font-size: 5em;
+      color: #F4D19B;
+      position: relative;
+      top: 10%;
+      font-family: 'Sacramento', cursive;
+}
+hr {
+    color: black;
+    border: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+
+    margin: 80px auto;
+}
+.skillrow{
+      width: 30%;
+      text-align: left;
+      margin: auto;
+      display: inline-block;
+      
+}
+h3, {
+      float: left;
+      margin: 5%
+      width:70%
+}
+.icon{
+      width: 30%;
+      float: right;
+      display: inline-block;
+      margin-right: -50% ;
+      
+      
+}
+h3{
+      color:#22577A;
+      font-size: 1.5em;
+      margin: auto;
+      font-family: 'Libre Baskerville', serif;
+      margin-bottom: 5%;
+}
+h2{
+      color:#22577A;
+      font-size: 3em;
+      margin: auto;
+      font-family: 'Libre Baskerville', serif;
+      margin-bottom: 5%;
+}
+.me{
+      width: 15%;
+      margin-bottom: 5%;
+}
+h4{
+      width: 50%;
+      margin:auto
+}
+a {
+      text-decoration:none;
+      color: brown;
+      font-weight: 1000;
+}
+h5 {
+      color:#22577A;
+      font-size: 3em;
+      margin: auto;
+      margin-top: 10%;
+      font-family: 'Libre Baskerville', serif;
+      margin-bottom: 5%;
+}
+h6{
+      color:black;
+      font-size: 1em;
+      margin: auto;
+      
+      font-family: 'Spectral', serif;
+      margin-bottom: 5%;
+      width: 30%;
+} 
+p{
+      display: block;
+      width: -100%;
+}
+.btn {
+      background: #2298e6;
+      background-image: -webkit-linear-gradient(top, #2298e6, #4ae6de);
+      background-image: -moz-linear-gradient(top, #2298e6, #4ae6de);
+      background-image: -ms-linear-gradient(top, #2298e6, #4ae6de);
+      background-image: -o-linear-gradient(top, #2298e6, #4ae6de);
+      background-image: linear-gradient(to bottom, #2298e6, #4ae6de);
+      -webkit-border-radius: 28;
+      -moz-border-radius: 28;
+      border-radius: 28px;
+      font-family: Arial;
+      color: #ffffff;
+      font-size: 20px;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
+    }
+    
+    .btn:hover {
+      background: #e01659;
+      margin:auto;
+      background-image: -webkit-linear-gradient(top, #e01659, #0e0f0f);
+      background-image: -moz-linear-gradient(top, #e01659, #0e0f0f);
+      background-image: -ms-linear-gradient(top, #e01659, #0e0f0f);
+      background-image: -o-linear-gradient(top, #e01659, #0e0f0f);
+      background-image: linear-gradient(to bottom, #e01659, #0e0f0f);
+      text-decoration: none;
+    }
+   .bottom-container{
+                    background-color: cornflowerblue;
+                    margin-top: 5%;
+   }
+  
+/**
+p {
+      margin: auto;
+      text-align: left;
+      width: 60%;
+}
+
+h2{
+      color:#22577A;
+      margin-top: 50px;
+      font-size: 2em;
+      font-family: 'Libre Baskerville', serif;
+      text-align: left;
+      margin:0% 20% 0% 10%;
+***/
+}
+
+
+
+/**
+.skillrow{
+      text-align: left;
+      margin:0% 20% 0% 10%;
+}   
+      
+
+      
+
+
+    
+      
+      
